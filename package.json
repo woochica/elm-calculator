@@ -8,6 +8,7 @@
     "parcel": "^2.7.0"
   },
   "devDependencies": {
-    "@parcel/transformer-elm": "2.7.0"
+    "@parcel/transformer-elm": "2.7.0",
+    "elm-test": "^0.19.1-revision10"
   }
 }
