@@ -2,7 +2,7 @@
 
 A kata for working with Reverse Polish Notation and implementing the Shunting-yard algorithm.
 
-![Screenshot of the calculator](./elm-calculator.jpg)
+![Screenshot of the calculator](./elm-calculator-screenshot.jpg)
 
 HTML template credits: https://www.cssacademy.com/blog/create-a-calculator-in-html-and-css
 
